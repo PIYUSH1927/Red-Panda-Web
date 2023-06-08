@@ -1,0 +1,32 @@
+.hh{
+    text-align: center;
+    text-decoration: underline;
+   
+}
+.text{
+    position: relative;
+    left: 70px;
+    margin: 0px;
+
+
+    width: 90%;
+}
+.dz{
+    background-color:grey;
+    opacity: 0.9;
+}
+.first{
+    width: 50%;
+    float: left;
+    position: relative;
+    left: 50px;
+}
+.second{
+    width: 50%;
+    float: right;
+}
+.second img{
+    width: 80%;
+    position: relative;
+    left: 80px;
+}
