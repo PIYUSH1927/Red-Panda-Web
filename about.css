@@ -241,4 +241,39 @@ justify-content: space-between;
   .text h3 {
     font-size: 2em;
   }
+
+  .logo{
+    font-size: 15px;
+   }
+
+   .text h2{
+    margin-top: 90px;
+    text-decoration: underline;
+    text-align: center;
+   }
+   .text h1{
+    text-decoration: underline;
+   }
+
+   .first{
+    width: 100%;
+    float: none;
+    padding-right: 0px; 
+    font-size: 15px;
+   }
+   .first h1{
+    font-size: 20px;
+    text-align: center;
+   }
+   .second{
+    width: 100%;
+    font-size: 18px;
+   }
+
+   .second a{
+    position: relative;
+    bottom: 50px;
+    left: 0px;
+    font-size: 15px;
+  }
 }

@@ -218,4 +218,9 @@ justify-content: space-between;
   .text h3 {
     font-size: 2em;
   }
+
+  .logo{
+   font-size: 15px;
+  }
+
 }
